@@ -21,7 +21,6 @@ export default function Ejercicio2() {
     if(fromData.edad >=18){
       window.alert('Eres mayor de edad!');
     }
-
     };
 
   return (
