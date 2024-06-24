@@ -1,3 +1,4 @@
+import {React} from "react"
 import './App.css';
 import Ejercicio1 from './Ejercicio1';
 import Ejercicio2 from './Ejercicio2';
